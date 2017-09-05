@@ -111,4 +111,4 @@ ____
 
 	và
 
-		![img](../images/lvs-rr-02.png)
+	![img](../images/lvs-rr-02.png)
