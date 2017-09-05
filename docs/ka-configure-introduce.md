@@ -9,7 +9,6 @@ ____
 - [3.2 Nội dung cấu hình trong block `global_defs`](#global_defs)
 - [3.3 Nội dung cấu hình trong block `static_ipaddress static_routes`](#static_ipaddress)
 - [3.4 Nội dung cấu hình trong block `vrrp_instance`](#vrrp_instance)
-- [](#)
 - [Các nội dung khác](#content-others)
 
 ____
@@ -121,8 +120,7 @@ ____
 
     + Trong block `vrrp_instance` có thể khai báo các cấu hình sau:
 
-        
-- ### <a name=""></a>
+        sẽ cập nhật sau:
 
 
 ____
