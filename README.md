@@ -3,7 +3,7 @@ Ghi chép về haproxy
 
 # Mục lục
 
-A. Các tổng quan
+## A. Các tổng quan
 
 - [1. HA Proxy - High Availability Proxy](docs/ha-overview.md)
 	- [1.1 Mục đích sử dụng của HA Proxy](docs/ha-overview.md#about)
@@ -21,3 +21,14 @@ A. Các tổng quan
 	- [3.2 Nội dung cấu hình trong block `global_defs`](docs/ka-configure-introduce.md#global_defs)
 	- [3.3 Nội dung cấu hình trong block `static_ipaddress static_routes`](docs/ka-configure-introduce.md#static_ipaddress)
 	- [3.4 Nội dung cấu hình trong block `vrrp_instance` (đang hoàn thiện)](docs/ka-configure-introduce.md#vrrp_instance)
+
+
+## B. Thực hành
+
+- [1 Giới thiệu về LVS](docs/lvs-direct-routing.md#about)
+- [1.2 Cài đặtt LVS trên Ubuntu](docs/lvs-direct-routing.md#install)
+- [1.3 Cấu hình Network Direct Routing](docs/lvs-direct-routing.md#config)
+- [1.4 Kiểm tra kết quả](docs/lvs-direct-routing.md#test)
+- [2.1 Cài đặtt LVS trên Ubuntu (đang hoàn thiện)](docs/lvs-direct-routing.md#install)
+- [2.3 Cấu hình Network Direct Routing (đang hoàn thiện)](docs/lvs-direct-routing.md#config)
+- [2.4 Kiểm tra kết quả (đang hoàn thiện)](docs/lvs-direct-routing.md#test)

@@ -3,9 +3,12 @@ ____
 
 # Mục lục
 - [.1 Giới thiệu về LVS](#about)
--  [.2 Cài đặtt LVS](#install)
-- [.3 Cấu hình Network Direct Routing](#config)
-- [.4 Kiểm tra kết quả](#test)
+- [A.2 Cài đặtt LVS trên Ubuntu](#install)
+- [A.3 Cấu hình Network Direct Routing](#config)
+- [A.4 Kiểm tra kết quả](#test)
+- [B.2 Cài đặtt LVS trên Ubuntu](#install)
+- [B.3 Cấu hình Network Direct Routing](#config)
+- [B.4 Kiểm tra kết quả](#test)
 
 ____
 
